@@ -1,1 +1,0 @@
-# hq-universe-mobile
