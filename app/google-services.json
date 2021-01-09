@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801832401992",
+    "project_id": "hq-universe",
+    "storage_bucket": "hq-universe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801832401992:android:daba87a5910b5ee4586c7d",
+        "android_client_info": {
+          "package_name": "br.com.alexbrigido.hquniverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801832401992-46faqtj1q7sdlsu0uvsmstvilptartn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1TxhNm1pcQaud41qQyMxD2xlxKD06B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801832401992-46faqtj1q7sdlsu0uvsmstvilptartn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
